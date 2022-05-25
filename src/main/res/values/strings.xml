@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Information Security GUI</string>
+    <string name="caesar_cipher">Caesar Cipher</string>
+    <string name="vigenere_cipher">vigenere Cipher</string>
+    <string name="polyalphabetic_cipher">PolyAlphabetic Cipher</string>
+    <string name="autokey_cipher">autoKey Cipher</string>
+    <string name="choose_one">Choose One</string>
+    <string name="substitution_cipher">substitution Cipher</string>
+    <string name="enter">Go</string>
+    <string name="please_enter_the_text_you_wish_to_encrypt_no_numeric_values_are_permitted">Please enter the text you wish to encrypt. No numeric values are permitted!</string>
+    <string name="please_enter_an_integer_for_the_cipher_shift">Please enter an integer for the cipher shift.</string>
+    <string name="your_message">Your message:</string>
+    <string name="cipher_shift">Cipher shift:</string>
+    <string name="result">Result</string>
+    <string name="encrypted_message">Encrypted message</string>
+    <string name="original_message">Original message</string>
+    <string name="enter_the_key_in_upper_case">Enter the key in UPPER Case:</string>
+    <string name="key">Key</string>
+    <string name="enter_the_message_that_would_like_to_be_encrypted_by_vigenere_cipher">Enter the message that would like to be encrypted by Vigenere cipher:</string>
+    <string name="message">Message</string>
+    <string name="encrypt">encrypt</string>
+    <string name="decrypted_message">decrypted message:</string>
+    <string name="enter_the_message_that_would_like_to_be_decrypted_by_vigenere_cipher">Enter the message that would like to be decrypted by Vigenere cipher:</string>
+    <string name="enter_the_message_you_want_encrypted">Enter the message you want encrypted:</string>
+    <string name="please_enter_your_password">Please enter your password:</string>
+    <string name="password">Password</string>
+    <string name="enter_the_key_number_0_25">Enter the key number (0-25):</string>
+    <string name="enter_the_plaintext">Enter the Plaintext</string>
+    <string name="cipher_text">Cipher text =</string>
+    <string name="decrypt">decrypt</string>
+    <string name="plaintext">Plaintext</string>
+    <string name="enter_the_key_in_lowercase">Enter the key in Lowercase</string>
+    <string name="enter_the_ciphertext">Enter the Ciphertext</string>
+    <string name="the_decrypted_text_is">The decrypted text is</string>
+    <string name="enter_the_key">Enter the key</string>
+    <string name="plaintext_text">Plaintext text =</string>
+    <string name="affine_cipher">Affine Cipher</string>
+
+
+</resources>
